@@ -2,6 +2,15 @@
 
 A React app for searching movies, viewing details, and tracking your watched list. Built as part of a React learning project.
 
+<img width="1916" height="907" alt="image" src="https://github.com/user-attachments/assets/d8f4ce3b-a220-45f9-b0f8-9a05594e81be" />
+
+<img width="1916" height="905" alt="image" src="https://github.com/user-attachments/assets/99b3f695-70c0-4f95-928f-4cdce2eaeb8f" />
+
+<img width="1916" height="908" alt="image" src="https://github.com/user-attachments/assets/14c36af1-4c9c-487d-9839-cf0c91e59d5a" />
+
+
+
+
 ## Features
 
 - Search for movies using the OMDb API.
